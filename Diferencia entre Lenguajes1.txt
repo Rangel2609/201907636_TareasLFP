@@ -1,0 +1,9 @@
+Diferencia entre lenguaje imperativo y declarativo
+
+La diferencia ente ambos por decirlo asi es que el declarativo
+se basa mas en la logica como la mente humana mientras que el 
+imperativo la persona le tiene que decir que hacer a base de codigo.
+
+
+Un ejemplo del lenguaje imperativo es: Java.
+Un ejemplo del lenguaje declarativo es: SQL.
