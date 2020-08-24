@@ -1,0 +1,38 @@
+id, color, marca, numeropuertas, modelo;
+1, Rosa, Honda, 2, 2000;
+2, Azul, Toyota, 4, 1999;
+3, Verde, Chevrolet, 4, 2000;
+4, Rojo, Mazda, 4, 2003;
+
+<xml tipo="Carros" fecha="21-08-2020">
+<Carros id="1">
+<color>Rosa</color>
+<marca>Honda</marca>
+<numeropuertas>2</numeropuertas>
+<modelo>2000</modelo>
+</Carros>
+
+<Carros id="2">
+<color>Azul</color>
+<marca>Toyota</marca>
+<numeropuertas>4</numeropuertas>
+<modelo>1999</modelo>
+</Carros>
+
+<Carros id="3">
+<color>Verde</color>
+<marca>Chevrolet</marca>
+<numeropuertas>4</numeropuertas>
+<modelo>2000</modelo>
+</Carros>
+
+<Carros id="4">
+<color>Rojo</color>
+<marca>Mazda</marca>
+<numeropuertas>4</numeropuertas>
+<modelo>2003</modelo>
+</Carros>
+
+</xm>
+
+{"Carros":[{"id":1}]}
