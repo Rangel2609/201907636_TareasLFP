@@ -24,6 +24,11 @@ h1{text-align: center;}
 .nav{align-content: center;}
 </style>
 <body>
+<form>
+    <input type="date";>
+
+
+</form>
 <script src="Tarea4/archivo.js"></script>
 <p>"archivo.js"</p>
 </body>
